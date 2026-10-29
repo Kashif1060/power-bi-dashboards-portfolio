@@ -120,16 +120,6 @@ A collection of **6 interactive Power BI dashboards** I designed to practice tur
 - **Cash on Delivery** is the most common payment mode (41%), ahead of Online (36%) and Cards (23%).
 - **Office Supplies** and **Technology** each generate about 0.16M, ahead of Furniture (0.13M).
 
----
-
-## Repository Structure
-
-```
-powerbi-dashboard-portfolio/
-├── README.md
-├── screenshots/        # Dashboard preview images
-└── dashboards/         # Power BI (.pbix) files
-```
 
 ## How to Open the Dashboards
 
@@ -137,11 +127,3 @@ powerbi-dashboard-portfolio/
 2. Open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free for Windows).
 3. Use the slicers and filters to explore the data.
 
-## About Me
-
-I'm [Your Name], a data analyst focused on building clear, decision-focused dashboards.
-
-- LinkedIn: [your LinkedIn link]
-- Email: [your email]
-
-Feedback is welcome. If you have suggestions for improving any of these dashboards, feel free to open an issue or message me.
