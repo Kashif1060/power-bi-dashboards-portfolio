@@ -24,7 +24,7 @@ A collection of **6 interactive Power BI dashboards** I designed to practice tur
 
 ## 1. Hospital Operations Dashboard
 
-![Hospital Dashboard](screenshots/Hospital_Dashboard.png)
+![Hospital Dashboard](Hospital_Dashboard_Screenshot.png)
 
 **Business question:** Where do patient volume and treatment costs concentrate, and how many visits are completed?
 
