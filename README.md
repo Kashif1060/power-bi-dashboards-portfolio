@@ -24,8 +24,6 @@ A collection of **6 interactive Power BI dashboards** I designed to practice tur
 
 ## 1. Hospital Operations Dashboard
 
-![Hospital Dashboard](Hospital_Dashboard_Screenshot.png)
-
 **Business question:** Where do patient volume and treatment costs concentrate, and how many visits are completed?
 
 **KPIs:** 500 total patients | Rs1.3M total cost
@@ -43,8 +41,6 @@ A collection of **6 interactive Power BI dashboards** I designed to practice tur
 
 ## 2. HR Analytics Dashboard
 
-![HR Analytics Dashboard](screenshots/HR_Analytics_Dashboard.png)
-
 **Business question:** How are employees, salaries, and payroll distributed across departments, cities, and roles?
 
 **KPIs:** 40 employees | Average performance 4 | Average salary Rs77K | Total payroll Rs3M
@@ -61,8 +57,6 @@ A collection of **6 interactive Power BI dashboards** I designed to practice tur
 
 ## 3. Online Store Dashboard
 
-![Online Store Dashboard](screenshots/Online_Store_Dashboard.png)
-
 **Business question:** Which products, categories, cities, and payment methods drive sales and profit?
 
 **KPIs:** Total sales Rs2M | Total profit Rs258K | 30 orders | 239 units sold | Average order value Rs71K
@@ -78,8 +72,6 @@ A collection of **6 interactive Power BI dashboards** I designed to practice tur
 ---
 
 ## 4. Sales Performance Dashboard
-
-![Sales Performance Dashboard](screenshots/Sales_Dashboard.png)
 
 **Business question:** Which categories, regions, customer segments, and months generate the most sales?
 
@@ -98,8 +90,6 @@ A collection of **6 interactive Power BI dashboards** I designed to practice tur
 
 ## 5. Student Performance Dashboard
 
-![Student Performance Dashboard](screenshots/Student_Performance_Dashboard.png)
-
 **Business question:** How do students perform across departments, and how do attendance and study habits relate to results?
 
 **KPIs:** 30 students | Highest score 97 | Lowest score 61 | Average score 81 | Average attendance 84 | Average study hours 15
@@ -115,8 +105,6 @@ A collection of **6 interactive Power BI dashboards** I designed to practice tur
 ---
 
 ## 6. Super Store Sales Dashboard
-
-![Super Store Sales Dashboard](screenshots/SuperStore_Dashboard.png)
 
 **Business question:** How do sales and profit vary by customer segment, shipping mode, payment mode, product category, and location?
 
